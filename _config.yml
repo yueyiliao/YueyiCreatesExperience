@@ -208,15 +208,6 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: New York University
-        sub_title: Master‘s of Science in Global Hospitality Management  
-        caption: September 2026 Enrollment
-        quote: >
-          Specialized program integrating global service leadership and hospitality innovation.
-        description: |
-          Applying to deepen understanding of international service design, luxury guest experience, and sustainable business practices.
-
-      - layout: top-right
         title: University of California, Riverside
         sub_title: Bachelor of Arts in Psychology
         caption: September 2022 – March 2026 (expected)
@@ -234,15 +225,7 @@ content:
         description: |
           Training in F&B operations, service standards, menu engineering, cost control, and hospitality management fundamentals.
 
-      - layout: top-right
-        title: Culinary Institute of America (CIA)
-        sub_title: Accelerated Culinary Arts Certificate Program (Application in Progress)
-        quote: >
-          Advanced technical training in culinary arts and kitchen operations.
-        description: |
-          Planning to pursue CIA’s accelerated program to develop classical culinary foundations and technical proficiency for food-and-beverage leadership.
-      
-          
+   
   - title: "<a id='aboutme'></a>A Little More About Me"
     layout: text
     content: |
