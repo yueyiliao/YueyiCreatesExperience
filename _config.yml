@@ -46,7 +46,6 @@ about_content: |-
   - My long-term goal is to continue growing in the hospitality industry, developing my craft through lifelong learning, teamwork, and dedication to excellent service.
   - I aspire to create meaningful hospitality experiences that **celebrate culture**, **value sustainability**, **respect community**, and **foster human connection**.
 
-content:
   - title: "<a id='projects'></a>EXPERIENTIAL PROJECTS"
     layout: list
     content:
@@ -89,12 +88,11 @@ content:
           sequencing. Focused on welcoming atmosphere, smooth service flow, and
           cultural storytelling through food, table setting, and guest communication.
 
+
   - title: "<a id='culinary'></a>CULINARY & COMMUNITY PROJECTS"
     layout: list
     content:
       ...
-
-
 
 content:
   - title: "<a id='culinary'></a>CULINARY & COMMUNITY PROJECTS"
