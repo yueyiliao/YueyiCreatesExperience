@@ -1,13 +1,23 @@
 # Project template
 - layout: top-middle
-  name: Project 1
-  link: https://sproogen.github.io/modern-resume-theme
-  github: sproogen/modern-resume-theme
-  quote: >
-    Short overview of the project
-  description: >
-    Description about the work on/with the project
+  name: Duolingo Holiday Event Concept
+  description: Experience concept exploring guest flow, interactive touchpoints, and holiday engagement.
+  date: 2024
+  # url: /duolingo
+  image: assets/img/duolingo-cover.png
 
-- name: Project 2
-  description: >
-    Description about the work on/with the project
+- layout: top-middle
+  name: Sushi Times Operations Analysis
+  description: FOH/BOH flow mapping and operational improvement recommendations.
+  date: 2025
+  # url: /sushi
+  image: assets/img/sushi-cover.png
+
+- layout: top-middle
+  name: Lunar New Year Cultural Dinner
+  description: Annual multi-course experience focusing on guest comfort and community connection.
+  date: 2024–2026
+  # url: /lny
+  image: assets/img/lny-cover.png
+
+
