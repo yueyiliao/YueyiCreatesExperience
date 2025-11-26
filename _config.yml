@@ -55,14 +55,12 @@ content:
 
       - layout: left
         border: weak
-        title: Lunar New Year Cultural Dinner
+        title: "<img src='images/lunar-new-year-cover.jpg' width='380' style='border-radius:12px; margin-bottom:12px;' />"
         caption: Hosted dinners · 2022 – Present
         quote: >
           A home-hosted, multi-course cultural dinner designed around atmosphere,
           pacing, and shared storytelling.
         description: |
-          ![Lunar New Year Cultural Dinner](images/lunar-new-year-cover.svg)
-          
           Planned and hosted annual multi-course Lunar New Year dinners for
           10–20+ guests, coordinating menu design, prep timelines, and course
           sequencing. Focused on welcoming atmosphere, smooth service flow, and
