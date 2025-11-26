@@ -36,9 +36,9 @@ content:
           Concepted a 40-guest branded holiday event where guest flow, playful activities,
           and service pacing all support Duolingo’s light, encouraging personality.
         description: |
-          Designed a corporate holiday event concept featuring a cohesive theme, run-of-show, guest-flow mapping, 
-          and spatial layout. Integrated branded touchpoints across food, décor, and activities while balancing atmosphere,
-          logistics, pacing, and basic sustainability considerations.
+          Designed a corporate holiday event concept with a cohesive theme, run-of-show, guest-flow mapping, 
+          and spatial layout. Integrated branded touchpoints across food, décor, and activities while balancing 
+          atmosphere, logistics, pacing, and low-impact sustainability considerations.
 
       - layout: left
         border: weak
@@ -61,9 +61,9 @@ content:
           A home-hosted, multi-course cultural dinner designed around atmosphere,
           pacing, and shared storytelling.
         description: |
-          Planned and hosted an annual multi-course Lunar New Year dinner event for ~20 guests, coordinating menu design, 
-          prep timelines, and course sequencing. Focused on creating a warm, culturally grounded experience through atmosphere, 
-          smooth service flow, and thoughtful storytelling.
+          Planned and hosted an annual multi-course Lunar New Year dinner event for ~20 guests, coordinating 
+          menu design, prep timelines, and course sequencing. Designed the experience around atmosphere, smooth 
+          service flow, and cultural storytelling to create a warm, connected gathering.
 
   - title: "<a id='experience'></a>EXPERIENCE"
     layout: list
@@ -88,8 +88,8 @@ content:
         quote: >
           Collaborative community event to assemble meals for families in need.
         description: |
-          - Collaborated with 200+ volunteers to assemble 100,000 meal packs for families in Central America.
-          - Strengthened teamwork, time management, and community engagement in a mission-driven environment.
+          Supported a large-scale community volunteering event, helping 
+          coordinate throughput and station setup—gaining experience in team flow, timing, and clear communication.
 
   - title: "<a id='education'></a>EDUCATION"
     layout: list
@@ -115,8 +115,10 @@ content:
   - title: "<a id='aboutme'></a>A LITTLE MORE ABOUT ME"
     layout: text
     content: |
-      I’m drawn to spaces where people gather—the quiet moments before an event begins, the aroma that fills a room, the way light softens as conversation grows. I notice how details shape comfort, how a simple gesture can turn service into care. In those moments, I’m reminded why I love hospitality: it’s where thoughtfulness becomes experience.
-
+      I’m drawn to the moments when people gather—the atmosphere before an event begins, the shift in energy as conversation grows, 
+      and the subtle details that shape comfort. With a background in psychology and hospitality, I pay close attention to how 
+      environment, flow, and small gestures influence experience. That’s why I gravitate toward experiential work: it’s where 
+      thoughtful design becomes connection.
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
