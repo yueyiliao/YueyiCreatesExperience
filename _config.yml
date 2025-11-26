@@ -30,13 +30,13 @@ content:
     content:
       - layout: left
         border: weak
-        title: Duolingo Holiday Event Concept
+        title: <img src="images/duolingo-cover.jpg" width="380" style="border-radius: 12px; margin-bottom: 12px;" />
         caption: Concept proposal · November 2025
         quote: >
           Concepted a 40-guest branded holiday event where guest flow, playful activities,
           and service pacing all support Duolingo’s light, encouraging personality.
         description: |
-          <img src="images/duolingo-cover.svg" width="380" style="border-radius: 12px; margin-bottom: 12px;" />
+          <img src="images/duolingo-cover.jpg" width="380" style="border-radius: 12px; margin-bottom: 12px;" />
           
           Designed a full corporate holiday event concept, including theme, run-of-show,
           guest-flow mapping, and space layout. Integrated branded touchpoints into
