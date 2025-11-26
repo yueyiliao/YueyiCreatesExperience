@@ -99,29 +99,6 @@ content:
 content:
   - title: "<a id='culinary'></a>CULINARY & COMMUNITY PROJECTS"
     layout: list
-    content:
-      - layout: left
-        border: weak
-        title: Lunar New Year Feast Series
-        caption: Jan 2022 – Present
-        quote: >
-          Annual cultural dining experience celebrating tradition, creativity, and community.
-        description: |
-          * Hosted and prepared multi-course Lunar New Year feasts for 10–20 guests each year.
-          * Managed sourcing, menu design, timing, and presentation to ensure a smooth, satisfying dining experience.
-          * Learned how to tell cultural stories through food, atmosphere, and hospitality.
-      
-      - layout: left
-        border: weak
-        title: Pastry Technique & R&D Portfolio
-        caption: July 2025 – Present
-        quote: >
-          A technical exploration of pastry structure, ingredient behavior, and craft precision.
-        description: |
-          * Developing an ongoing pastry portfolio focused on understanding the science and structure behind classic techniques. 
-          * Conduct controlled studies on meringue stability, moisture and heat regimes, steam expansion, protein stabilization, and dough fermentation to observe how ingredient ratios and temperature influence final texture and formation.
-          * Document each series through iterative trials, photography, and written analysis, building a foundation of technical mastery that supports more advanced pastry work.
-      
       - layout: left
         border: weak
         title: Community Baking Event — “Friends” Children with Special Need Support Program
