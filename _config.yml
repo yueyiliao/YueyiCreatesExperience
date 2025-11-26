@@ -22,7 +22,15 @@ linkedin_username: yueyi-liao
 # About Section 
 about_profile_image: images/Avatar_1.jpg
 about_content: |-
-  I am a Psychology major at the University of California, Riverside, with a hospitality mindset and a growing focus on experiential coordination. Growing up between cultures and working bilingually in English and Chinese has made me especially sensitive to subtle cues in guest behavior, atmosphere, and communication. I enjoy designing experiences that feel warm, clear, and thoughtfully paced—whether it is a small multi-course dinner, a community event, or a concept proposal for a brand. I am preparing for early-career roles where I can keep learning how operations, service flow, and human behavior come together to shape memorable guest experiences.
+  I am a Psychology major at the University of California, Riverside, with a hospitality mindset and a growing focus 
+  on experiential coordination. Growing up between cultures and working bilingually in English and Chinese has made 
+  me especially sensitive to subtle cues in guest behavior, atmosphere, and communication. I enjoy designing experiences 
+  that feel warm, clear, and thoughtfully paced—whether it is a small multi-course dinner, a community event, or a 
+  concept proposal for a brand. I am preparing for early-career roles where I can keep learning how operations, service 
+  flow, and human behavior come together to shape memorable guest experiences.
+
+  I’m building toward early-career roles in experiential coordination, where I can bring together human behavior, 
+  hospitality, and detailed event flow planning.
 
 content:
   - title: "<a id='projects'></a>EXPERIENTIAL PROJECTS"
@@ -78,7 +86,7 @@ content:
         description: |
           - Apply empathy and observational skills to support clients with diverse developmental and behavioral profiles.
           - Collaborate with supervisors and families to implement individualized support plans.
-          - Strengthen communication, patience, and situational awareness.
+          - Strengthen situational awareness, patience, and clear communication.
 
       - layout: right
         title: Harvest Pack Meal Packing Event
@@ -88,8 +96,8 @@ content:
         quote: >
           Collaborative community event to assemble meals for families in need.
         description: |
-          Supported a large-scale community volunteering event, helping 
-          coordinate throughput and station setup—gaining experience in team flow, timing, and clear communication.
+          Supported a large-scale community volunteering event, Helped coordinate throughput and station flow for a 
+          large-scale community event, gaining experience with timing, teamwork, and clear task communication
 
   - title: "<a id='education'></a>EDUCATION"
     layout: list
