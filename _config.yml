@@ -7,12 +7,11 @@ version: 2
 
 # Personal info
 name: Yueyi Liao
-title: Experience Design · Hospitality · Psychology
+title: Experiential Coordination & Hospitality-Focused Experience Design
 email: liaoyueyi@gmail.com
 # email_title: Email (Email title override)
 phone: "+1 (424) 393-6876"
 # phone_title: Phone (Phone title override)
-
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -20,25 +19,55 @@ darkmode: false
 instagram_username: yueyi_ueue
 linkedin_username: yueyi-liao
 
-
-
-# About Section
+# About Section (主页上方的大简介)
 about_profile_image: images/Avatar_1.jpg
 about_content: |-
-  **_Introduction_**
-  
-  **_Experience and Growth_**
-  
-  **_Work Ethic and Values_**
-  
-  **_Professional Training_**
+  I am a Psychology major at the University of California, Riverside, with a hospitality mindset and a growing focus on experiential coordination. Growing up between cultures and working bilingually in English and Chinese has made me especially sensitive to subtle cues in guest behavior, atmosphere, and communication. I enjoy designing experiences that feel warm, clear, and thoughtfully paced—whether it is a small multi-course dinner, a community event, or a concept proposal for a brand. I am preparing for early-career roles where I can keep learning how operations, service flow, and human behavior come together to shape memorable guest experiences.
 
- 
-  **_Career Vision_**
- 
- 
- 
-  - title: "<a id='experience'></a>Experience"
+content:
+  - title: "<a id='projects'></a>EXPERIENTIAL PROJECTS"
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: Duolingo Holiday Event Concept
+        caption: Concept proposal · November 2025
+        quote: >
+          Concepted a 40-guest branded holiday event where guest flow, playful activities,
+          and service pacing all support Duolingo’s light, encouraging personality.
+        description: |
+          Designed a full corporate holiday event concept, including theme, run-of-show,
+          guest-flow mapping, and space layout. Integrated branded touchpoints into
+          food, décor, and activities while balancing atmosphere, logistics, and
+          service pacing.
+
+      - layout: left
+        border: weak
+        title: Sushi Times Operations Analysis
+        caption: Operations analysis · November 2025
+        quote: >
+          A small-restaurant operations review connecting guest experience,
+          FOH–BOH workflow, and service efficiency.
+        description: |
+          Conducted an operational analysis of a local Japanese casual dining
+          restaurant. Observed FOH/BOH workflows, guest flow, and service timing to
+          identify bottlenecks. Summarized insights into practical recommendations
+          to improve pacing, layout usage, and overall guest experience consistency.
+
+      - layout: left
+        border: weak
+        title: Lunar New Year Cultural Dinner
+        caption: Hosted dinners · 2022 – Present
+        quote: >
+          A home-hosted, multi-course cultural dinner designed around atmosphere,
+          pacing, and shared storytelling.
+        description: |
+          Planned and hosted annual multi-course Lunar New Year dinners for
+          10–20+ guests, coordinating menu design, prep timelines, and course
+          sequencing. Focused on welcoming atmosphere, smooth service flow, and
+          cultural storytelling through food, table setting, and guest communication.
+
+  - title: "<a id='experience'></a>EXPERIENCE"
     layout: list
     content:
       - layout: right
@@ -49,11 +78,10 @@ about_content: |-
         quote: >
           Providing individualized behavioral support for clients with developmental needs.
         description: |
-          * Apply empathy and observational skills to support clients with diverse developmental and behavioral profiles.
-          * Collaborate with supervisors and families to implement individualized support plans.
-          * Strengthen communication, patience, and situational awareness.
+          - Apply empathy and observational skills to support clients with diverse developmental and behavioral profiles.
+          - Collaborate with supervisors and families to implement individualized support plans.
+          - Strengthen communication, patience, and situational awareness.
 
- 
       - layout: right
         title: Harvest Pack Meal Packing Event
         sub_title: Community Volunteer
@@ -62,10 +90,10 @@ about_content: |-
         quote: >
           Collaborative community event to assemble meals for families in need.
         description: |
-          * Collaborated with 200+ volunteers to assemble 100,000 meal packs for families in Central America.
-          * Strengthened teamwork, time management, and community engagement in a mission-driven environment.
+          - Collaborated with 200+ volunteers to assemble 100,000 meal packs for families in Central America.
+          - Strengthened teamwork, time management, and community engagement in a mission-driven environment.
 
-  - title: "<a id='education'></a>Education"
+  - title: "<a id='education'></a>EDUCATION"
     layout: list
     content:
       - layout: top-right
@@ -73,7 +101,7 @@ about_content: |-
         sub_title: Bachelor of Arts in Psychology
         caption: September 2022 – March 2026 (expected)
         quote: >
-          Coursework emphasizing human behavior, communication, and social psychology 
+          Coursework emphasizing human behavior, communication, and social psychology.
         description: |
           Relevant coursework includes Social Psychology, Cognitive Psychology, Industrial–Organizational Psychology, and Research Methods.
 
@@ -86,12 +114,10 @@ about_content: |-
         description: |
           Training in F&B operations, service standards, menu engineering, cost control, and hospitality management fundamentals.
 
-   
-  - title: "<a id='aboutme'></a>A Little More About Me"
+  - title: "<a id='aboutme'></a>A LITTLE MORE ABOUT ME"
     layout: text
     content: |
-      I’m drawn to spaces where people gather — the quiet moments before an event begins, the aroma that fills a room, the way light softens as conversation grows. I notice how details shape comfort, how a simple gesture can turn service into care.
-      In those moments, I’m reminded why I love hospitality: it’s where thoughtfulness becomes experience.
+      I’m drawn to spaces where people gather—the quiet moments before an event begins, the aroma that fills a room, the way light softens as conversation grows. I notice how details shape comfort, how a simple gesture can turn service into care. In those moments, I’m reminded why I love hospitality: it’s where thoughtfulness becomes experience.
 
 # Footer
 footer_show_references: true
@@ -106,17 +132,17 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - lib/
+  - scripts/
+  - docker-compose.yml
+
