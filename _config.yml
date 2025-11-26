@@ -42,14 +42,12 @@ content:
 
       - layout: left
         border: weak
-        title: Sushi Times Operations Analysis
+        title: "<img src='images/sushi-times-cover.jpg' width='380' style='border-radius:12px; margin-bottom:12px;' />"
         caption: Operations analysis · November 2025
         quote: >
           A small-restaurant operations review connecting guest experience,
           FOH–BOH workflow, and service efficiency.
         description: |
-          ![Sushi Times Operations Analysis](images/sushi-times-cover.svg)
-          
           Conducted an operational analysis of a local Japanese casual dining
           restaurant. Observed FOH/BOH workflows, guest flow, and service timing to
           identify bottlenecks. Summarized insights into practical recommendations
