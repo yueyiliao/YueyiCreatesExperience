@@ -47,6 +47,56 @@ about_content: |-
   - I aspire to create meaningful hospitality experiences that **celebrate culture**, **value sustainability**, **respect community**, and **foster human connection**.
 
 content:
+  - title: "<a id='projects'></a>EXPERIENTIAL PROJECTS"
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: Duolingo Holiday Event Concept
+        caption: Concept proposal · November 2025
+        quote: >
+          Concepted a 40-guest branded holiday event where guest flow, playful activities,
+          and service pacing all support Duolingo’s light, encouraging personality.
+        description: |
+          Designed a full corporate holiday event concept, including theme, run-of-show,
+          guest-flow mapping, and space layout. Integrated branded touchpoints into
+          food, décor, and activities while balancing atmosphere, logistics, and
+          service pacing.
+
+      - layout: left
+        border: weak
+        title: Sushi Times Operations Analysis
+        caption: Operations analysis · November 2025
+        quote: >
+          A small-restaurant operations review connecting guest experience,
+          FOH–BOH workflow, and service efficiency.
+        description: |
+          Conducted an operational analysis of a local Japanese casual dining
+          restaurant. Observed FOH/BOH workflows, guest flow, and service timing to
+          identify bottlenecks. Summarized insights into practical recommendations
+          to improve pacing, layout usage, and overall guest experience consistency.
+
+      - layout: left
+        border: weak
+        title: Lunar New Year Cultural Dinner
+        caption: Hosted dinners · 2022 – Present
+        quote: >
+          A home-hosted, multi-course cultural dinner designed around atmosphere,
+          pacing, and shared storytelling.
+        description: |
+          Planned and hosted annual multi-course Lunar New Year dinners for
+          10–20+ guests, coordinating menu design, prep timelines, and course
+          sequencing. Focused on welcoming atmosphere, smooth service flow, and
+          cultural storytelling through food, table setting, and guest communication.
+
+  - title: "<a id='culinary'></a>CULINARY & COMMUNITY PROJECTS"
+    layout: list
+    content:
+      ...
+
+
+
+content:
   - title: "<a id='culinary'></a>CULINARY & COMMUNITY PROJECTS"
     layout: list
     content:
