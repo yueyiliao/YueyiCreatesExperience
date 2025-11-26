@@ -26,72 +26,18 @@ linkedin_username: yueyi-liao
 about_profile_image: images/Avatar_1.jpg
 about_content: |-
   **_Introduction_**
-  - I am a senior at the **University of California, Riverside**, majoring in **Psychology**.
-  - As an aspiring experiencial marketing/event coordinator/hospitality professional, I aim to integrate insights from human behavior with my passion for food, service, and event experience. My goal is to create thoughtful, refined, and memorable hospitality moments shaped by culture, craft, and genuine care.
-
+  
   **_Experience and Growth_**
-  - Hosted cultural and themed dinners for international students far from home, volunteered in community hospitality services, and organized pastry-making events supporting the local autism community.
-  - Through these experiences, I have gained hands-on skills in food preparation, event coordination, and teamwork — and learned how hospitality brings people together through warmth, care, and thoughtful attention to detail.
-
+  
   **_Work Ethic and Values_**
-  - Reliable, calm under pressure, and attentive to every detail — whether serving guests, collaborating with a team, or preparing a dish.
-  - Remain professional and composed in fast-paced environments, always striving to deliver comfort and care through genuine service.
-
+  
   **_Professional Training_**
-  - ServSafe Food Protection Manager, California Food Handling, and Responsible Beverage Service.
-  - SHRM Essentials of Human Resources — teamwork, organizational communication, inclusive leadership.
-  - Currently pursuing advanced training and preparing for an **internship (April–August 2026)** to gain practical experience in **hospitality operations** (event & banquet) and **kitchen management** (restaurants & bars).
-
-  **_Career Vision_**
-  - My long-term goal is to continue growing in the hospitality industry, developing my craft through lifelong learning, teamwork, and dedication to excellent service.
-  - I aspire to create meaningful hospitality experiences that **celebrate culture**, **value sustainability**, **respect community**, and **foster human connection**.
 
  
-      - layout: left
-        border: weak
-        title: Duolingo Holiday Event Concept — Event Proposal Design
-        caption: November 2025
-        quote: >
-          A full-scale corporate holiday event concept integrating brand identity, guest-flow planning, and hotel-style event structure.
-        description: |
-          Designed a complete holiday event concept for 40 guests inspired by Duolingo’s playful, language-focused brand identity. 
-          * Developed a cohesive theme, run-of-show, and guest-flow strategy that coordinated arrival experience, activity pacing, and transitions between program elements.
-          * Created layout plans detailing seating, movement pathways, and service points to support efficient staff workflow and smooth guest circulation. 
-          * Built F&B, décor, AV, and sustainability components with an emphasis on operational feasibility, resource planning, and realistic event execution.
-          
-          Produced a professional event-proposal deck modeled after hotel event–sales standards, combining creative design with practical considerations such as timing, staffing, equipment needs, sustainability, and cost awareness.
-
-      - layout: left
-        border: weak
-        title: Research Proposal — Investment Model and Commitment in Long-Distance vs. Proximal Relationships
-        caption: May 2025
-        quote: >
-          Exploring how relationship experiences and future planning shape emotional commitment across distances.
-        description: |
-          * Developed a research proposal expanding Rusbult’s Investment Model to examine how past experiences and future planning predict commitment in long-distance and proximal relationships.
-          * Designed survey methodology for 500 participants and proposed ANOVA analysis to compare commitment mechanisms.
-          * Applied behavioral science concepts to understand long-term engagement and emotional investment.
-
-      - layout: left
-        border: weak
-        title: Research Proposal — Gender-Bias Awareness Intervention in Childhood Development
-        caption: January 2025
-        quote: >
-          Designing a longitudinal study to examine how parental awareness programs influence children’s confidence and identity.
-        description: |
-          * Created a study exploring how increasing parental awareness of gender bias affects children’s self-concept and behavior.
-          * Integrated Implicit Association Tests (IAT) and survey methods to evaluate shifts in parental bias and child development.
-
-      - layout: left
-        border: weak
-        title: Research Presentation — PTSD Symptoms and Sleep Disturbances
-        caption: June 2024
-        quote: >
-          Presentation of Dietch et al. (2019) on PTSD symptoms and sleep in World Trade Center responders.
-        description: |
-          * Collaborated with a team to synthesize and present the paper’s methodology and findings for a class audience.
-          * Focused on clear communication of study design, variables, and real-world implications for occupational health.
-
+  **_Career Vision_**
+ 
+ 
+ 
   - title: "<a id='experience'></a>Experience"
     layout: list
     content:
@@ -107,17 +53,7 @@ about_content: |-
           * Collaborate with supervisors and families to implement individualized support plans.
           * Strengthen communication, patience, and situational awareness.
 
-      - layout: right
-        title: Zhengzhou No.1 People’s Hospital
-        sub_title: Medical Intern
-        caption: July – August 2021
-        quote: >
-          Assisted physicians and staff in a fast-paced hospital environment.
-        description: |
-          * Supported patient communication and administrative coordination while observing clinical procedures.
-          * Maintained accurate records and assisted with daily operations.
-          * Developed adaptability, professionalism, and attention to detail.
-
+ 
       - layout: right
         title: Harvest Pack Meal Packing Event
         sub_title: Community Volunteer
@@ -129,16 +65,6 @@ about_content: |-
           * Collaborated with 200+ volunteers to assemble 100,000 meal packs for families in Central America.
           * Strengthened teamwork, time management, and community engagement in a mission-driven environment.
 
-      - layout: right
-        title: Private Family Employment
-        sub_title: Babysitter
-        caption: June 2023 – May 2025
-        quote: >
-          Providing daily care and support for two children.
-        description: |
-          * Prepare balanced meals and assist with homework while ensuring a safe and supportive environment.
-          * Communicate regularly with parents to maintain trust and consistency.
-
   - title: "<a id='education'></a>Education"
     layout: list
     content:
@@ -147,7 +73,7 @@ about_content: |-
         sub_title: Bachelor of Arts in Psychology
         caption: September 2022 – March 2026 (expected)
         quote: >
-          Coursework emphasizing human behavior, communication, and social psychology — connecting insight with service and hospitality.
+          Coursework emphasizing human behavior, communication, and social psychology 
         description: |
           Relevant coursework includes Social Psychology, Cognitive Psychology, Industrial–Organizational Psychology, and Research Methods.
 
