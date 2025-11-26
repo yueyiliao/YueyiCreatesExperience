@@ -33,7 +33,7 @@ about_content: |-
   hospitality, and detailed event flow planning.
 
 content:
-  - title: "<a id='projects'></a>EXPERIENTIAL PROJECTS"
+  - title: "<a id='experiential projects'></a>EXPERIENTIAL PROJECTS"
     layout: list
     content:
       - layout: left
