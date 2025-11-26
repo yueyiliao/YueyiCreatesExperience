@@ -48,11 +48,11 @@ content:
           A small-restaurant operations review connecting guest experience,
           FOH–BOH workflow, and service efficiency.
         description: |
-          Conducted an operational analysis of a local Japanese casual dining
-          restaurant. Observed FOH/BOH workflows, guest flow, and service timing to
-          identify bottlenecks. Summarized insights into practical recommendations
-          to improve pacing, layout usage, and overall guest experience consistency.
-
+          Conducted an operational analysis of a Japanese casual dining restaurant, assessing FOH–BOH coordination, 
+          guest flow, and timing differences between hot and cold production lines. Identified key bottlenecks—including 
+          pickup-area congestion and asynchronous dish pacing—and developed practical recommendations to improve workflow 
+          efficiency, layout use, and overall guest experience consistency.
+          
       - layout: left
         border: weak
         title: "<img src='images/lunar-new-year-cover.jpg' width='380' style='border-radius:12px; margin-bottom:12px;' />"
@@ -61,10 +61,9 @@ content:
           A home-hosted, multi-course cultural dinner designed around atmosphere,
           pacing, and shared storytelling.
         description: |
-          Planned and hosted annual multi-course Lunar New Year dinners for
-          10–20+ guests, coordinating menu design, prep timelines, and course
-          sequencing. Focused on welcoming atmosphere, smooth service flow, and
-          cultural storytelling through food, table setting, and guest communication.
+          Planned and hosted an annual multi-course Lunar New Year dinner event for ~20 guests, coordinating menu design, 
+          prep timelines, and course sequencing. Focused on creating a warm, culturally grounded experience through atmosphere, 
+          smooth service flow, and thoughtful storytelling.
 
   - title: "<a id='experience'></a>EXPERIENCE"
     layout: list
